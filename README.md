@@ -222,7 +222,8 @@ It is not just a hackathon prototype —
 it is a **scalable, impactful, and sustainable solution** for food waste and social welfare.
 
 ## 📚 Documentation
-🎨 Folder Structure & .env Example - [Guide](./Frontend/Frontend.md)
+🎨 Folder Structure & .env Example - [Frontend Guide](./Frontend/Frontend.md)
+⚙️ Folder Structure & .env Example - [Backend Guide](./Backend/Backend.md)
 
 ---
 
