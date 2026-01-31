@@ -94,12 +94,9 @@ VITE_SOCKET_URL = http://localhost:3000
 VITE_MAPBOX_TOKEN = 
 ```
 
-## ⚙️ Run Frontend Locally
+## ⚙️ Run Project Locally
 ``` bash
-git clone https://github.com/Sreejib-Nandy/ResQFood_Frontend.git
-```
-``` bash
-cd ResQFood_Frontend
+git clone https://github.com/joyjit345/ResQFood.git
 ```
 ``` bash
 npm install
@@ -107,17 +104,10 @@ npm install
 ``` bash
 npm run dev
 ```
-#### Frontend will run at :
-``` bash
-http://localhost:5173
-```
 
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
-### Sreejib Nandy
-🔗 GitHub : https://github.com/Sreejib-Nandy
+### Code Captcha
+🔗 GitHub : https://github.com/joyjit345
 
 #### ⭐ If you like this project, don’t forget to star the repo!
