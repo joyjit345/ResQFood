@@ -94,9 +94,12 @@ VITE_SOCKET_URL = http://localhost:3000
 VITE_MAPBOX_TOKEN = 
 ```
 
-## ⚙️ Run Project Locally
+## ⚙️ Run Frontend Locally
 ``` bash
-git clone https://github.com/joyjit345/ResQFood.git
+git clone https://github.com/joyjit345/Frontend.git
+```
+``` bash
+cd Frontend
 ```
 ``` bash
 npm install
@@ -104,7 +107,10 @@ npm install
 ``` bash
 npm run dev
 ```
-
+#### Frontend will run at :
+``` bash
+http://localhost:5173
+```
 
 ## 👨‍💻 Author
 ### Code Captcha
