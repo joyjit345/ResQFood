@@ -228,37 +228,37 @@ it is a **scalable, impactful, and sustainable solution** for food waste and soc
 ---
 
 ### Home Page
-![Home Page](./Screenshots/Hero.png)
+![Home Page](./Frontend/Screenshots/Hero.png)
 
 ### Features Section
-![Features Section](./Screenshots/Features.png)
+![Features Section](./Frontend/Screenshots/Features.png)
 
 ### Testimonials Section
-![Testimonials Section](./Screenshots/Testimonials.png)
+![Testimonials Section](./Frontend/Screenshots/Testimonials.png)
 
 ### Sign Up Page
-![Sign Up Page](./Screenshots/Signup.png)
+![Sign Up Page](./Frontend/Screenshots/Signup.png)
 
 ### Log In Page
-![Log In Page](./Screenshots/Login.png)
+![Log In Page](./Frontend/Screenshots/Login.png)
 
 ### Edit Profile Page
-![Edit Profile Page](./Screenshots/EditProfile.png)
+![Edit Profile Page](./Frontend/Screenshots/EditProfile.png)
 
 ### Restaurant Dashboard Page
-![Restaurant Dashboard Page](./Screenshots/RestaurantDashboard.png)
+![Restaurant Dashboard Page](./Frontend/Screenshots/RestaurantDashboard.png)
 
 ### NGO Mapview Page
-![NGO Mapview Page](./Screenshots/NGOMapview.png)
+![NGO Mapview Page](./Frontend/Screenshots/NGOMapview.png)
 
 ### Food Marker on Map
-![Food Marker on Map](./Screenshots/FoodMarker.png)
+![Food Marker on Map](./Frontend/Screenshots/FoodMarker.png)
 
 ### Food Modal on Map for claiming
-![Food Modal on Map for claiming](./Screenshots/FoodClaimModal.png)
+![Food Modal on Map for claiming](./Frontend/Screenshots/FoodClaimModal.png)
 
 ### NGO Dashboard Page
-![NGO Dashboard Page](./Screenshots/Socket.png)
+![NGO Dashboard Page](./Frontend/Screenshots/Socket.png)
 
 ## 👨‍💻 Author
 
