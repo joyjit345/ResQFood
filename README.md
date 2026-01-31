@@ -223,6 +223,7 @@ it is a **scalable, impactful, and sustainable solution** for food waste and soc
 
 ## 📚 Documentation
 🎨 Folder Structure & .env Example - [Frontend Guide](./Frontend/Frontend.md)
+
 ⚙️ Folder Structure & .env Example - [Backend Guide](./Backend/Backend.md)
 
 ---
