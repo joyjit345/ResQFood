@@ -222,9 +222,7 @@ It is not just a hackathon prototype —
 it is a **scalable, impactful, and sustainable solution** for food waste and social welfare.
 
 ## 📚 Documentation
-🎨 Folder Structure & .env Example - [Frontend Guide](./DOCUMENTATION.md)
-
-🔗 Backend Repository - https://github.com/Sreejib-Nandy/ResQFood_Backend
+🎨 Folder Structure & .env Example - [Guide](./DOCUMENTATION.md)
 
 ---
 
@@ -261,12 +259,9 @@ it is a **scalable, impactful, and sustainable solution** for food waste and soc
 ### NGO Dashboard Page
 ![NGO Dashboard Page](./Screenshots/Socket.png)
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 👨‍💻 Author
 
-**Sreejib Nandy**  
+**Code Captcha**  
 Built with ❤️ for society and sustainability  
 
 ---
